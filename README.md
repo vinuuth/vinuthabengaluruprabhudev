@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinutha</h1>
+<h1 align="center">Hi 👋, I'm Vinutha Bengaluru Prabhudev </h1>
 <h3 align="center">Data Analyst based in United states</h3>
 
 - 🔭 I’m currently working on **System Design**
