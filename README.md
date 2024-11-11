@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **System Design**
 <br><br>
-<h3 align="left">Connect with me: vinuthaprabhudev@gmail.com</h3> <img align="right"src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="400">
+<h3 align="left">Connect with me: vinuthaprabhudev@gmail.com</h3> <img align="right"src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <p align="left">
 </p>
 <br><br>
