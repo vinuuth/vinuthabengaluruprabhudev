@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinutha Bengaluru Prabhudev </h1>
 <h3 align="center">IT professional based in United states</h3>
 
-- 🔭 I’m currently working on **System Design**
+- 🔭 I’m currently working on **System Design** and looking for full time roles
 <br><br>
 <h3 align="left">Connect with me: vinuthaprabhudev@gmail.com</h3> <img align="right"src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <p align="left">
