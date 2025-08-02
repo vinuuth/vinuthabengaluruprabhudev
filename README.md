@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinutha Bengaluru Prabhudev </h1>
+<h1 align="center">Hello 👋, I'm Vinutha Bengaluru Prabhudev </h1>
 <h3 align="center">IT professional based in United states</h3>
 🔭 I’m currently working on System Design and looking for a full-time opportunity in Data Analysis, Data Engineering, Business Intelligence, and Business Analyst
 
